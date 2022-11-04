@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sanic/npc_sebanico_killicon"
+	"$translucent" 1
+}
